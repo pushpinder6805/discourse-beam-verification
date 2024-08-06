@@ -1,0 +1,4 @@
+en:
+  beam_verification:
+    enabled: "Enable BEAM Verification"
+    description: "Verifies BEAM token accounts for Discourse users"
